@@ -21,3 +21,5 @@ gcc -o decrypt decrypt.c
 # @ ChangeLog v1.0
 
 -Added C sources
+
+-Added youtube video: https://youtu.be/bZKbtQNbzBg
