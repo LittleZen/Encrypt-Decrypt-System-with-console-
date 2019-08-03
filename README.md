@@ -4,7 +4,7 @@
 
 # How to use 
 
-You can you the following commands for compile the sources:
+You can use the following commands for compile the sources:
 
 
 Encrypt System:
