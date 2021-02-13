@@ -9,8 +9,9 @@ If you would like make your own project, you can download the encrypt.c and decr
 If you would like try the console system, i actually realeased the version 1.2 as public! Enjoy it :) 
 
 
+# WARNING
 
-
+After years, i just wanna say this is actually just an encoding, not a real encryption. The main idea behind this repository was to create a new encryption algorithm, but in reallity, it's never been finished ... so ... this is just a encoding not a real encryption and no secure ! Use it just for test and learn :)
 
 
 
